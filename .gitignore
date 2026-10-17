@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+dist/
+captures/
+*.blend*
+*.fbx
+*.bin
+*.dds
+*.pat
+*.trace
+*.mp4
+*.zip
+*.bak
